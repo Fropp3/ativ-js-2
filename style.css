@@ -1,0 +1,12 @@
+
+body{
+    background-color: paleturquoise;  display: grid;
+ grid-template-columns: 1fr ;
+ align-items: center;
+
+    }
+header{width: fil-content; height: 9vh;background-color:aquamarine; align-items: center; }
+button{width: 9vh;height: 3vh;background-color: azure;}
+#div{
+    display: none; position: fixed; z-index: 1; 
+}
